@@ -4,7 +4,6 @@ A PAINLESS GUIDE TO CRC ERROR
 "Everything you wanted to know about CRC algorithms, but were afraid
 to ask for fear that errors in your understanding might be detected."
 
-
           Version : 3.
 Date    : 19 August 1993.
 Author  : Ross N. Williams.
